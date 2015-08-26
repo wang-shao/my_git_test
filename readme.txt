@@ -1,2 +1,3 @@
-Git is a verison control system
+Git is a great verison control system
 Git is free software
+Git is great
